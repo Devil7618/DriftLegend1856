@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: #333;
+}
+
+h1 {
+    font-size: 3em;
+    color: #f39c12;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.intro, .achievements, .trophy {
+    background-color: #222;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.intro h2, .achievements h2, .trophy h2 {
+    font-size: 2em;
+    text-align: center;
+    color: #f39c12;
+}
+
+.trophy {
+    text-align: center;
+}
+
+.trophy img {
+    width: 50%;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+    color: #f39c12;
+}
+
+footer a {
+    color: #f39c12;
+    text-decoration: none;
+}
